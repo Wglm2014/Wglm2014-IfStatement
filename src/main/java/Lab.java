@@ -1,5 +1,6 @@
 
 public class Lab {
+    //comment added to commit
     /**
      * An if statement uses a conditional statement (within parentheses) to determine if the code
      * within {curly braces} should run.
